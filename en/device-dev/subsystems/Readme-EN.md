@@ -1,0 +1,96 @@
+# Subsystems
+
+-   [Compilation and Building](compilation-and-building.md)
+    -   [Building Guidelines for Mini and Small Systems](building-guidelines-for-mini-and-small-systems.md)
+        -   [Compilation and Building Overview](compilation-and-building-overview.md)
+        -   [Compilation and Building Guidelines](compilation-and-building-guidelines.md)
+        -   [Compilation and Building FAQ](compilation-and-building-faq.md)
+
+    -   [Building Guidelines for the Standard System](building-guidelines-for-the-standard-system.md)
+        -   [Compilation and Building Overview](compilation-and-building-overview-0.md)
+        -   [Compilation and Building Guidelines](compilation-and-building-guidelines-1.md)
+
+-   [Distributed Remote Startup](distributed-remote-startup.md)
+-   [Graphics](graphics.md)
+    -   [Graphics](graphics-2.md)
+    -   [Development Guidelines on Container Components](development-guidelines-on-container-components.md)
+    -   [Development Guidelines on Layout Container Components](development-guidelines-on-layout-container-components.md)
+    -   [Development Guidelines on Common Components](development-guidelines-on-common-components.md)
+    -   [Development Guidelines on Animators](development-guidelines-on-animators.md)
+
+-   [Multimedia](multimedia.md)
+    -   [Camera](camera.md)
+        -   [Overview](overview.md)
+        -   [Development Guidelines on Photographing](development-guidelines-on-photographing.md)
+        -   [Development Guidelines on Video Recording](development-guidelines-on-video-recording.md)
+        -   [Development Guidelines on Previewing](development-guidelines-on-previewing.md)
+
+    -   [Audio/Video](audio-video.md)
+        -   [Overview](overview-3.md)
+        -   [Development Guidelines on Media Playback](development-guidelines-on-media-playback.md)
+        -   [Development Guidelines on Media Recording](development-guidelines-on-media-recording.md)
+
+-   [Utils](utils.md)
+    -   [Utils Overview](utils-overview.md)
+    -   [Utils Development Guidelines](utils-development-guidelines.md)
+    -   [Utils FAQ](utils-faq.md)
+
+-   [AI Framework](ai-framework.md)
+    -   [AI Engine Framework](ai-engine-framework.md)
+    -   [Development Environment](development-environment.md)
+    -   [Technical Specifications](technical-specifications.md)
+        -   [Code Management](code-management.md)
+        -   [Naming](naming.md)
+        -   [API Development](api-development.md)
+
+    -   [Development Guidelines](development-guidelines.md)
+        -   [SDK](sdk.md)
+        -   [Plug-in](plug-in.md)
+        -   [Configuration File](configuration-file.md)
+
+    -   [Development Examples](development-examples.md)
+        -   [KWS SDK](kws-sdk.md)
+        -   [KWS Plug-in](kws-plug-in.md)
+        -   [KWS Configuration File](kws-configuration-file.md)
+
+-   [Sensors](sensors.md)
+    -   [Sensors Overview](sensors-overview.md)
+    -   [Sensors Usage Guidelines](sensors-usage-guidelines.md)
+    -   [Sensors Usage Example](sensors-usage-example.md)
+
+-   [Application Framework](application-framework.md)
+    -   [Overview](overview-4.md)
+    -   [Setting Up a Development Environment](setting-up-a-development-environment.md)
+    -   [Development Guidelines](development-guidelines-5.md)
+    -   [Development Example](development-example.md)
+
+-   [OTA Upgrade](ota-upgrade.md)
+-   [Security](security.md)
+    -   [Overview](overview-9.md)
+    -   [Development Guidelines on Application Signature Verification](development-guidelines-on-application-signature-verification.md)
+    -   [Development Guidelines on Application Permission Management](development-guidelines-on-application-permission-management.md)
+    -   [Development Guidelines on IPC Authentication](development-guidelines-on-ipc-authentication.md)
+    -   [Development Guidelines on Trusted Device Group Management](development-guidelines-on-trusted-device-group-management.md)
+
+-   [Startup](startup.md)
+    -   [Startup](startup-10.md)
+    -   [init Module](init-module.md)
+    -   [appspawn Module](appspawn-module.md)
+    -   [bootstrap Module](bootstrap-module.md)
+    -   [syspara Module](syspara-module.md)
+    -   [FAQs](faqs.md)
+    -   [Reference](reference.md)
+
+-   [Testing](testing.md)
+-   [DFX](dfx.md)
+    -   [DFX](dfx-11.md)
+    -   [Development Guidelines on HiLog ](development-guidelines-on-hilog.md)
+    -   [Development Guidelines on HiLog\_Lite](development-guidelines-on-hilog_lite.md)
+    -   [Development Guidelines on HiSysEvent](development-guidelines-on-hisysevent.md)
+
+-   [R&D Tools](r-d-tools.md)
+    -   [bytrace Usage Guidelines](bytrace-usage-guidelines.md)
+    -   [hdc\_std Usage Guidelines](hdc_std-usage-guidelines.md)
+
+-   [XTS](xts.md)
+
